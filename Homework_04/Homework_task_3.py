@@ -13,5 +13,5 @@ for i in range(101):
                 break
         if answer == 'yes':
             break
-        elif answer == 'no':
+        else:
             continue
